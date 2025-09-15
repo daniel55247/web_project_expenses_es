@@ -95,6 +95,5 @@ function calculateLargestCategory(){
 function addExpenseEntry(values){
 
     expenseEntries.push(values);
-    totalExpensesValue =  sumGastos();
-    
+    totalExpensesValue =  sumGastos();    
 }
